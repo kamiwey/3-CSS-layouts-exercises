@@ -1,5 +1,17 @@
 /* your code here */
-
+.wrapper {
+	padding: 10px;
+	display: inline-block;
+}
+nav {
+	width: 300px;
+	float: left;
+}
+section {
+	float: left;
+	width: 1300px;
+	margin-left: 10px;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/

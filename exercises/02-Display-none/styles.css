@@ -1,4 +1,19 @@
 /* your code here */
-.h2 {display:none;
-
+#myFirstH2 {
+	visibility: hidden;
+}
+#mySecondH2 {
+	display: none;
+}
+ul {
+	list-style-type: none;
+	display: inline-flex;
+	gap: 5px;
+}
+strong {
+	display: block;
+	
+}
+.h2 {
+	display: none;
 }
